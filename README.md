@@ -112,3 +112,5 @@ By leveraging blockchain technology, we aim to increase voter confidence, reduce
 
 This decentralized voting system represents a significant step towards more democratic, transparent, and secure electoral processes in the digital age.
 
+Contract Address :   0x13754eea88e11ebbed23864ce8693a8a5ed46230
+
